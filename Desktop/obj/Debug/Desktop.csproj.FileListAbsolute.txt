@@ -1,0 +1,10 @@
+E:\OneDrive\Workspace\1---- Source Code\GoToDesktop\Desktop\Desktop\bin\Debug\Desktop.exe.config
+E:\OneDrive\Workspace\1---- Source Code\GoToDesktop\Desktop\Desktop\bin\Debug\Desktop.exe
+E:\OneDrive\Workspace\1---- Source Code\GoToDesktop\Desktop\Desktop\bin\Debug\Desktop.pdb
+E:\OneDrive\Workspace\1---- Source Code\GoToDesktop\Desktop\Desktop\obj\Debug\Desktop.csprojResolveAssemblyReference.cache
+E:\OneDrive\Workspace\1---- Source Code\GoToDesktop\Desktop\Desktop\obj\Debug\Desktop.Properties.Resources.resources
+E:\OneDrive\Workspace\1---- Source Code\GoToDesktop\Desktop\Desktop\obj\Debug\Desktop.csproj.GenerateResource.Cache
+E:\OneDrive\Workspace\1---- Source Code\GoToDesktop\Desktop\Desktop\obj\Debug\Desktop.exe
+E:\OneDrive\Workspace\1---- Source Code\GoToDesktop\Desktop\Desktop\obj\Debug\Desktop.pdb
+E:\OneDrive\Workspace\1---- Source Code\GoToDesktop\Desktop\Desktop\obj\Debug\Interop.Shell32.dll
+E:\OneDrive\Workspace\1---- Source Code\GoToDesktop\Desktop\Desktop\obj\Debug\Desktop.csproj.ResolveComReference.cache
